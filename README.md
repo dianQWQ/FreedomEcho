@@ -10,4 +10,4 @@
 
 模组加载器:`Fabric`
 
-![](/home/dianqwq/IdeaProjects/FreedomEcho/src/main/resources/assets/freedomecho/icon.png)
+![](src/main/resources/assets/freedomecho/icon.png)
