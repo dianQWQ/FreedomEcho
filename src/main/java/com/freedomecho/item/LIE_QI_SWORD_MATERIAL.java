@@ -23,7 +23,7 @@ public class LIE_QI_SWORD_MATERIAL implements ToolMaterial {
 
     @Override
     public float getAttackDamage() {
-        return 100;
+        return 500;
     }
 
     @Override

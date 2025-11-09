@@ -1,5 +1,6 @@
 package com.freedomecho;
 
+import com.freedomecho.block.ModBlocks;
 import com.freedomecho.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,5 +23,6 @@ public class FreedomEcho implements ModInitializer {
 
 		//LOGGER.info("Hello Fabric world!");
         ModItems.initialize();
+        ModBlocks.initialize();
 	}
 }
