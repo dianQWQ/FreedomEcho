@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "RRR",
+    "ZZZ"
+  ],
+  "key": {
+    "W":{
+     "item": "minecraft:rotten_flesh"
+    },
+    "R": {
+      "item": "minecraft:water_bucket"
+    },
+    "Z": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "id": "freedomecho:lie_qi",
+    "count": 1
+  }
+}

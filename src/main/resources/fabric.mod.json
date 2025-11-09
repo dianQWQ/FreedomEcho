@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "freedomecho",
+	"version": "${version}",
+	"name": "FreedomEcho",
+	"description": "添加了一些非常非常非常好用的东西......!!!!!!",
+	"authors": [
+		"dianQWQ"
+	],
+	"contact": {
+		"homepage": "https://bing.com/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/freedomecho/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.freedomecho.FreedomEcho"
+		],
+		"fabric-datagen": [
+			"com.freedomecho.FreedomEchoDataGenerator"
+		],
+        "client": [
+          "com.freedomecho.FreedomEchoClient"
+        ]
+	},
+	"mixins": [
+		"freedomecho.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
