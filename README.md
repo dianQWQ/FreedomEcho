@@ -12,4 +12,4 @@
 
 ![](src/main/resources/assets/freedomecho/icon.png)
 
-[点我-下载最新版本](https://github.com/dianQWQ/FreedomEcho/releases/download/A/freedomecho-0.0.1-1.21-fabric.jar)
+[点我-下载最新版本](https://bgithub.xyz/dianQWQ/FreedomEcho/releases/latest)
